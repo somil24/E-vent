@@ -232,7 +232,7 @@ class Global {
                     )
                 )
             }
-            return ArrayList(list.shuffled())
+            return list;
         }
     }
 }
