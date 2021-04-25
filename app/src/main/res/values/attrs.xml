@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomTextField">
+        <attr name="iconVisible" format="boolean" />
+        <attr name="iconSrc" format="reference" />
+        <attr name="title" format="string" />
+        <attr name="hint" format="string" />
+        <attr name="isPassword" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="CustomButton">
+        <attr name="text" format="string" />
+        <attr name="isSecondary" format="boolean" />
+    </declare-styleable>
+</resources>
